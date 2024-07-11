@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "小龙 吴<br>Xiaolong Wu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "Hello world!"
   links:
     - label: "Email"
