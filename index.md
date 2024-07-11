@@ -3,7 +3,7 @@ author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
-layout: home
+layout: single
 ---
 
 # About
