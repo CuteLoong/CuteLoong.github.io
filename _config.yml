@@ -61,7 +61,7 @@ author:
   bio    : "Hello world!"
   links:
     - label: "Email"
-      icon: "fab fa-solid fa-envelope"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:cuteloong@mail.sdu.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
