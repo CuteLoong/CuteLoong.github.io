@@ -6,7 +6,7 @@ feature_row1:
   - image_path: assets/images/SC_SSR_EGSR24.png
     alt: "Stereo-consistent Screen Space Reflection"
     title: "Stereo-consistent Screen Space Reflection"
-    excerpt: '**XiaoLong Wu**, Yanning Xu, [Lu Wang\*](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
+    excerpt: '**Xiaolong Wu**, Yanning Xu, [Lu Wang\*](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
     url: "#test-link"
     btn_label: "Project Page"
     btn_class: "btn--primary"
@@ -14,7 +14,7 @@ feature_row2:
   - image_path: assets/images/NSRD_CVPR2024.png
     alt: "Neural Super-Resolution for Real-time Rendering with Radiance Demodulation"
     title: "Neural Super-Resolution for Real-time Rendering with Radiance Demodulation"
-    excerpt: 'Jia Li, Ziling Chen, **XiaoLong Wu**, [Lu Wang\*](https://wanglusdu.github.io/), [Beibei Wang\*](https://wangningbei.github.io/), [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<br>CVPR, 2024.'
+    excerpt: 'Jia Li, Ziling Chen, **Xiaolong Wu**, [Lu Wang\*](https://wanglusdu.github.io/), [Beibei Wang\*](https://wangningbei.github.io/), [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<br>CVPR, 2024.'
     url: "https://riga2.github.io/nsrd/"
     btn_label: "Project Page"
     btn_class: "btn--primary"
