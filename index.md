@@ -1,7 +1,7 @@
 ---
 author_profile: true
 classes: wide
-layout: single
+layout: archive
 feature_row1:
   - image_path: assets/images/SC_SSR_EGSR24.png
     alt: "Stereo-consistent Screen Space Reflection"
