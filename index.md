@@ -2,15 +2,14 @@
 author_profile: true
 classes: wide
 layout: single
-
-sc_ssr:
+feature_row:
   - image_path: assets/images/SC_SSR_EGSR24.png
-  alt: "Stereo-consistent Screen Space Reflection"
-  title: "Stereo-consistent Screen Space Reflection"
-  excerpt: '**XiaoLong Wu**, Yanning Xu, [Lu Wang](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
-  url: "#test-link"
-  btn_label: "Read More"
-  btn_class: "btn--primary"
+    alt: "Stereo-consistent Screen Space Reflection"
+    title: "Stereo-consistent Screen Space Reflection"
+    excerpt: '**XiaoLong Wu**, Yanning Xu, [Lu Wang](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 # About
