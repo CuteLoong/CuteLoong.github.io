@@ -285,7 +285,7 @@
     padding-right: gutter(1 of 12);
   }
 
-  a.btn::before {
+  a.btn {
     content: '';
     position: absolute;
     left: 0;
@@ -311,7 +311,7 @@
       margin-bottom: 2em;
     }
 
-    a.btn::before {
+    a.btn {
       content: '';
       position: absolute;
       left: 0;
@@ -352,7 +352,7 @@
       margin-bottom: 2em;
     }
 
-    a.btn::before {
+    a.btn {
       content: '';
       position: absolute;
       left: 0;
@@ -396,7 +396,7 @@
       margin-bottom: 2em;
     }
 
-    a.btn::before {
+    a.btn {
       content: '';
       position: absolute;
       left: 0;
