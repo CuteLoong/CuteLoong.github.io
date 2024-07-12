@@ -1,22 +1,23 @@
 ---
+title: ""
 author_profile: true
 classes: wide
-layout: single
+layout: archive
 feature_row1:
   - image_path: assets/images/SC_SSR_EGSR24.png
     alt: "Stereo-consistent Screen Space Reflection"
     title: "Stereo-consistent Screen Space Reflection"
     excerpt: '**Xiaolong Wu**, Yanning Xu, [Lu Wang\*](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
-    url: "/publications/scssr24"
-    btn_label: "Project Page"
+    url: ["/publications/scssr24", "/assets/files/scssr24.pdf"]
+    btn_label: ["Project Page", "Paper"]
     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/NSRD_CVPR2024.png
     alt: "Neural Super-Resolution for Real-time Rendering with Radiance Demodulation"
     title: "Neural Super-Resolution for Real-time Rendering with Radiance Demodulation"
     excerpt: '[Jia Li](https://riga2.github.io/), Ziling Chen, **Xiaolong Wu**, [Lu Wang\*](https://wanglusdu.github.io/), [Beibei Wang\*](https://wangningbei.github.io/), [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<br>CVPR, 2024.'
-    url: "https://riga2.github.io/nsrd/"
-    btn_label: "Project Page"
+    url: ["https://riga2.github.io/nsrd/", "https://arxiv.org/abs/2308.06699"]
+    btn_label: ["Project Page", "Paper"]
     btn_class: "btn--primary"
 ---
 
