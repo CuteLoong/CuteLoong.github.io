@@ -7,7 +7,7 @@ feature_row1:
     alt: "Stereo-consistent Screen Space Reflection"
     title: "Stereo-consistent Screen Space Reflection"
     excerpt: '**Xiaolong Wu**, Yanning Xu, [Lu Wang\*](https://wanglusdu.github.io/)<br>Computer Graphics Forum (Eurographics Symposium on Rendering 2024), 2024.'
-    url: "#test-link"
+    url: "/publications/scssr24"
     btn_label: "Project Page"
     btn_class: "btn--primary"
 feature_row2:
