@@ -22,7 +22,9 @@ feature_row2:
 ---
 
 # About
-Hi! I'm Xiaolong Wu, currently a second-year Ph.D. student at Shandong University, working with Prof. [Lu Wang](https://wanglusdu.github.io/). My research mainly focuses on rendering. Especially I'm interested in real-time rendering.
+Hi! I'm Xiaolong Wu, currently a second-year Ph.D. student at Shandong University, working with Prof. [Lu Wang](https://wanglusdu.github.io/). 
+
+My research currently focuses on real-time rendering, and I am highly enthusiastic about technologies that improve rendering efficiency.
 # Publications
 
 {% include feature_row id="feature_row1" type="left" %}
