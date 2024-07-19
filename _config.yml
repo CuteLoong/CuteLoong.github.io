@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "小龙 吴<br>Xiaolong Wu"
-  avatar : "/assets/images/profile.png"
+  avatar : "/assets/images/author.jpg"
   bio    : "Hello world!"
   links:
     - label: "Email"
@@ -66,7 +66,7 @@ author:
       url: "mailto:cuteloong@mail.sdu.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/CuteLoong"
 
 footer:
   # links:

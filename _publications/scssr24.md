@@ -30,9 +30,11 @@ Screen Space Reflection (SSR) can reliably achieve highly efficient reflective e
 
 ## Downloads
 [Paper](/assets/files/scssr24.pdf){: .btn .btn--primary}
-[Slides](/publications/scssr24){: .btn .btn--primary}
-[Supplementary video](/publications/scssr24){: .btn .btn--primary}
+[Slides](/assets/files/scssr_slide.pptx){: .btn .btn--primary}
+[Supplementary video](/assets/videos/scssr24.mp4){: .btn .btn--primary}
+[Shader code](/assets/files/scssr.zip){: .btn .btn--primary}
 ## Videos
+<iframe width="560" height="315" src="/assets/videos/scssr24.mp4" frameborder="0"> </iframe>
 
 ## Cite
 
