@@ -1,7 +1,7 @@
 ---
 title: "Stereo-consistent Screen Space Reflection"
 layout: publication
-permalink: /publications/scssr24/
+permalink: /publications/rilod25/
 classes: wide
 author_profile: false
 ---
