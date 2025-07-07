@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "小龙 吴<br>Xiaolong Wu"
-  avatar : "/assets/images/author.jpg"
-  bio    : "Hello world!"
+  avatar : "/assets/images/author.png"
+  bio    : "We're all visitors to this time, this place"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
