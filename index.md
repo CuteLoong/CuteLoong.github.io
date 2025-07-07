@@ -33,7 +33,7 @@ feature_row3:
 # About
 Hi! I'm Xiaolong Wu, currently a third-year Ph.D. student at Shandong University, working with Prof. [Lu Wang](https://wanglusdu.github.io/) and Prof. [Junqiu Zhu](https://junqiuzhu.github.io/). 
 
-My research currently focuses on real-time rendering, and I am highly enthusiastic about technologies that improve rendering efficiency.
+My research focuses on achieving real-time photorealic rendering, exploring new geometric representations, efficient sampling methods, dynamic global illumination solutions, software ray tracing solutions, and post-processing techniques. I am also highly enthusiastic about technologies that improve rendering efficiency and quality.
 # Publications
 
 {% include feature_row id="feature_row3" type="left" %}
